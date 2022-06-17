@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2020/03/02" author="e.World Technology Ltd.">
+  <project id="{AEBA4D74-5D9D-43A3-BDE2-1E8D7036857C}" file="D:\SPI\Sirela\project1.pmp" name="project1" product="PHPMaker" version="15.0" datetime="2020/03/02 13:16:08" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="tb_realisasi" name="tb_realisasi" caption="Entry Pagu &amp; Realisasi" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_unit" name="tb_unit" caption="Unit Kerja" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_user" name="tb_user" caption="Pengguna" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_kegiatan" name="tb_kegiatan" caption="Akun Kegiatan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_kegiatan_sub1" name="tb_kegiatan_sub1" caption="Uraian Kegiatan Sub 1" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_kegiatan_sub2" name="tb_kegiatan_sub2" caption="Uraian Kegiatan Sub 2" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_kegiatan_sub3" name="tb_kegiatan_sub3" caption="Uraian Kegiatan Sub 3" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_kegiatan_sub4" name="tb_kegiatan_sub4" caption="Uraian Kegiatan Sub 4" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_kegiatan_sub5" name="tb_kegiatan_sub5" caption="Uraian Kegiatan Sub 5" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_kegiatan_sub6" name="tb_kegiatan_sub6" caption="Uraian Kegiatan Sub 6" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tb_revisi_anggaran" name="tb_revisi_anggaran" caption="Log Revisi Anggaran" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="v_realisasi" name="v_realisasi" caption="Realisasi Anggaran" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="v_revisi_anggaran" name="v_revisi_anggaran" caption="Log Revisi Anggaran" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
